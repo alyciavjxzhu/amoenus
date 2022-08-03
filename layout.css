@@ -59,10 +59,11 @@ h3{
 }
 #div5{
     background-color:rgb(243, 243, 243);
-    height: 915px;
+    height: 930px;
     margin-top: 20px;
     max-width: 480px;
-    margin-left: 500px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: left;
     padding: 20px
 }
