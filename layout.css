@@ -1,9 +1,10 @@
 h1{
     font-size: 60px;
-    font-family: 'Abril Fatface';
+    font-family: ltc-broadway, sans-serif;
     text-align: center;
     color: #ffffff;
     font-weight:lighter;
+    padding-top: 15px;
 }
 #div1{
     background-color:#000000;
@@ -78,11 +79,12 @@ h4{
 }
 h5{
     font-size: 60px;
-    font-family: 'Abril Fatface';
+    font-family: ltc-broadway, sans-serif;
     text-align: left;
     color: #ffffff;
     font-weight:lighter;
     padding: 1px 65px;
+    padding-top: 15px;
 }
 #div6{
     background-color:#000000;
@@ -109,6 +111,7 @@ h6{
     background-color:#000000;
     width: 100%;
     height: 150px;
+    margin-bottom: auto;
 }
 #div9{
     color: #ffffff;
